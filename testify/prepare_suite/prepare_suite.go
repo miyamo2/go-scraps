@@ -1,4 +1,4 @@
-package testifyrelated
+package prepare_suite
 
 import (
 	"context"

@@ -1,4 +1,4 @@
-module github.com/miyamo2/go-scraps/testifyrelated
+module github.com/miyamo2/go-scraps/testify/prepare_suite
 
 go 1.24
 
